@@ -1,0 +1,13 @@
+{
+    "name": "devdojo/calculator",
+    "description": "This demo package will do some calculations",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Saif Muhammad",
+            "email": "saif@nextgeni.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
